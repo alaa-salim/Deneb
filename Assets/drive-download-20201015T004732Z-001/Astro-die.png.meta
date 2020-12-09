@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 4da8a5ef12166f44b905effcd69cec03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4939791778175590913
+    second: Astro-die_0
+  - first:
+      213: -8638714135342914371
+    second: Astro-die_1
+  - first:
+      213: -8196779458650050654
+    second: Astro-die_2
+  - first:
+      213: 3783859224035099195
+    second: Astro-die_3
+  - first:
+      213: -3569967121081824427
+    second: Astro-die_4
+  - first:
+      213: -6226327665614900408
+    second: Astro-die_5
+  - first:
+      213: -4768260878527510344
+    second: Astro-die_6
+  - first:
+      213: -4540152396983609769
+    second: Astro-die_7
+  - first:
+      213: -796599605042422935
+    second: Astro-die_8
+  - first:
+      213: 2845682715518486108
+    second: Astro-die_9
+  - first:
+      213: -6888781382378974895
+    second: Astro-die_10
+  - first:
+      213: 7441946425335922148
+    second: Astro-die_11
+  - first:
+      213: 5559304492734390924
+    second: Astro-die_12
+  - first:
+      213: -1087121714577880322
+    second: Astro-die_13
+  - first:
+      213: 1857081472855647278
+    second: Astro-die_14
+  - first:
+      213: 2669393817916356704
+    second: Astro-die_15
+  - first:
+      213: 145038202160076181
+    second: Astro-die_16
+  - first:
+      213: 8045879841200327616
+    second: Astro-die_17
+  - first:
+      213: 5214037976212396605
+    second: Astro-die_18
+  - first:
+      213: 2601903727096357609
+    second: Astro-die_19
+  - first:
+      213: -3807176003011060869
+    second: Astro-die_20
+  - first:
+      213: -3334304202808207789
+    second: Astro-die_21
+  - first:
+      213: -4813224954885837978
+    second: Astro-die_22
+  - first:
+      213: -6606601248665351454
+    second: Astro-die_23
+  - first:
+      213: 8563646358795392835
+    second: Astro-die_24
+  - first:
+      213: -7775335465491687434
+    second: Astro-die_25
+  - first:
+      213: -5210487495954052847
+    second: Astro-die_26
+  - first:
+      213: -1938556381522777976
+    second: Astro-die_27
+  - first:
+      213: 4534204951434988372
+    second: Astro-die_28
+  - first:
+      213: -2149774019637252050
+    second: Astro-die_29
+  - first:
+      213: 7127532985667231081
+    second: Astro-die_30
+  - first:
+      213: 2164079422918869466
+    second: Astro-die_31
+  - first:
+      213: -6132205390318487118
+    second: Astro-die_32
+  - first:
+      213: -8732522547455640025
+    second: Astro-die_33
+  - first:
+      213: 914359320253862145
+    second: Astro-die_34
+  - first:
+      213: 207446710922155838
+    second: Astro-die_35
+  - first:
+      213: -89689642000887650
+    second: Astro-die_36
+  - first:
+      213: -3163042924372208418
+    second: Astro-die_37
+  - first:
+      213: -7658726854008313370
+    second: Astro-die_38
+  - first:
+      213: 9022662438660598028
+    second: Astro-die_39
+  - first:
+      213: 6805926464925388200
+    second: Astro-die_40
+  - first:
+      213: -6839863988432904026
+    second: Astro-die_41
+  - first:
+      213: 293500894994939661
+    second: Astro-die_42
+  - first:
+      213: 287962374488029773
+    second: Astro-die_43
+  - first:
+      213: 2709008099994411716
+    second: Astro-die_44
+  - first:
+      213: -3834734435180599740
+    second: Astro-die_45
+  - first:
+      213: -2225390011457391560
+    second: Astro-die_46
+  - first:
+      213: 5298057073401887989
+    second: Astro-die_47
+  - first:
+      213: 591786766054743020
+    second: Astro-die_48
+  - first:
+      213: 6311748929903222724
+    second: Astro-die_49
+  - first:
+      213: 915785724092371627
+    second: Astro-die_50
+  - first:
+      213: -1684458848470237872
+    second: Astro-die_51
+  - first:
+      213: 1446384684746323867
+    second: Astro-die_52
+  - first:
+      213: -844054791074551313
+    second: Astro-die_53
+  - first:
+      213: 1174031141234491088
+    second: Astro-die_54
+  - first:
+      213: -496321134450319495
+    second: Astro-die_55
+  - first:
+      213: 1631826023123855084
+    second: Astro-die_56
+  - first:
+      213: -3910978863990847232
+    second: Astro-die_57
+  - first:
+      213: 475921289614911614
+    second: Astro-die_58
+  - first:
+      213: 2747800618235812475
+    second: Astro-die_59
+  - first:
+      213: -1403867292006169184
+    second: Astro-die_60
+  - first:
+      213: 3306515942017971484
+    second: Astro-die_61
+  - first:
+      213: -2966385844458674121
+    second: Astro-die_62
+  - first:
+      213: -1440100404201900586
+    second: Astro-die_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astro-die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022d8a337aad8440800000000000000
+      internalID: 4939791778175590913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46db6834f1d1880800000000000000
+      internalID: -8638714135342914371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe1f0c2803f3e80800000000000000
+      internalID: -8196779458650050654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3282b0aae7f28430800000000000000
+      internalID: 3783859224035099195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b081061dde47ec0800000000000000
+      internalID: -3569967121081824427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84336d30af3a799a0800000000000000
+      internalID: -6226327665614900408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c9fa8efbb3ddb0800000000000000
+      internalID: -4768260878527510344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75657af13732ef0c0800000000000000
+      internalID: -4540152396983609769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bda3931e8e1f4f0800000000000000
+      internalID: -796599605042422935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c2f94a55ed7720800000000000000
+      internalID: 2845682715518486108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511affb4d12660a0800000000000000
+      internalID: -6888781382378974895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb2af38da174760800000000000000
+      internalID: 7441946425335922148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82aaaf4bfd962d40800000000000000
+      internalID: 5559304492734390924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efac8f67f84c9e0f0800000000000000
+      internalID: -1087121714577880322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e242584a2cda5c910800000000000000
+      internalID: 1857081472855647278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro-die_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068378ac8879b0520800000000000000
+      internalID: 2669393817916356704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
